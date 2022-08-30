@@ -15,3 +15,5 @@ webブラウザでlocalhost:8080
 >> cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 でパスワードを取得する
+
+テスト
